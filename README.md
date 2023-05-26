@@ -12,7 +12,7 @@ Maybe I will eventually make multiple tabs with different functions to help make
 
 To install and use: 
 1) Clone repository to a directory on your pc 
-2) Run exe
+2) Run exe found in "IdleCalc Compiled"
 3) Tell Lucy she's awesome
 
 OR:
