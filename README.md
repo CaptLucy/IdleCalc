@@ -10,4 +10,11 @@ I will continue to update it periodically with more features as I can think of p
 
 Maybe I will eventually make multiple tabs with different functions to help make more efficient decisions.
 
-<3
+To install and use: 
+1) Clone repository to a directory on your pc 
+2) Open IdleCalc.sln in a compiler of your choice
+3) Check my code for virusUwU.exe
+4) Compile/build
+5) Tell Lucy she's awesome
+
+<3 <3 <3
