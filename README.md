@@ -17,4 +17,4 @@ To install and use:
 4) Compile/build
 5) Tell Lucy she's awesome
 
-<3 <3 <3
+                                        <3 <3 <3
