@@ -1,4 +1,4 @@
-Hello lovelies! I made this pretty quickly and I'm not amazing at programming, so I hope it's not too cringe.
+Hello cuties! I made this pretty quickly and I'm not amazing at programming, so I hope it's not too cringe.
 
 I made this to know how much I will have to spend on upgrade paths for Idle Home in VRChat.
 
