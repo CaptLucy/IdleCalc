@@ -12,7 +12,12 @@ Maybe I will eventually make multiple tabs with different functions to help make
 
 To install and use: 
 1) Clone repository to a directory on your pc 
-2) Open IdleCalc.sln in a compiler of your choice
+2) Run exe
+3) Tell Lucy she's awesome
+
+OR:
+1) Clone repository
+2) Open IdleCalc.sln in a compiler of your choice (uses .net framwork 7.0, Visual Studio 2022 recomended)
 3) Check my code for virusUwU.exe
 4) Compile/build
 5) Tell Lucy she's awesome
